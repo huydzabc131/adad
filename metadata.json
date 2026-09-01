@@ -1,0 +1,6 @@
+{
+  "name": "AlgoMaster",
+  "description": "Nền tảng học và luyện tập lập trình thuật toán theo chủ đề, cấp độ và bài kiểm tra cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
